@@ -1,0 +1,22 @@
+[
+	{
+		"id": 0,
+		"title": "银鳞胸甲",
+		"value": 5,
+		"description": "银鳞胸甲，蓝色品质，5G一家",
+		"madeby": "神棍德",
+		"slug": "glove",
+		"stackavle": false,
+		"stackMax": 1
+	},
+	{
+		"id": 1,
+		"title": "左手蛋刀",
+		"value": 666,
+		"description": "没有右手蛋刀，你永远是不完整德男人",
+		"madeby": "伊利丹",
+		"slug": "golden_sword",
+		"stackavle": true,
+		"stackMax": 3
+	}
+]

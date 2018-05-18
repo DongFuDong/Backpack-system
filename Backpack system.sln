@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backpack system", "Assembly-CSharp.csproj", "{31ED589B-BDF0-0117-2CBD-A116C51F7CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31ED589B-BDF0-0117-2CBD-A116C51F7CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ED589B-BDF0-0117-2CBD-A116C51F7CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ED589B-BDF0-0117-2CBD-A116C51F7CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ED589B-BDF0-0117-2CBD-A116C51F7CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
